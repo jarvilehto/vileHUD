@@ -3028,7 +3028,176 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		
+		SourceCodeProVAR
+		{
+			"1"
+			{
+				"name"		"Source Code Pro ExtraLight"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProVAR
+		{
+			"1"
+			{
+				"name"		"Source Code Pro ExtraLight"
+				"tall"		"13"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg12
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg13
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg14
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg16
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg24
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg32
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SourceCodeProReg34
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SourceCodeProReg36
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg42
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProReg46
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Regular"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold14
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold13
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+				SourceCodeProBold14
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		
 	}
+	
+	//CUSTOM FONTS//
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
@@ -5838,6 +6007,29 @@ Scheme
 			{
 				"range" "0x0000 0x007E"
 			}
+		}
+		"8"
+		{
+			"font"	"resource/fonts/SourceCodePro.ttf"
+			"name" "Source Code Pro ExtraLight"
+		}
+		
+		"9"
+		{
+			"font"	"resource/fonts/SourceCodePro-Regular.ttf"
+			"name" "Source Code Pro Regular"
+		}
+		
+		"10"
+		{
+			"font"	"resource/fonts/SourceCodePro-SemiBold.ttf"
+			"name" "Source Code Pro SemiBold"
+		}
+		
+		"11"
+		{
+			"font"	"resource/fonts/SourceCodePro-Bold.ttf"
+			"name" "Source Code Pro Bold"
 		}
 	}
 }
