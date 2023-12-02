@@ -3153,7 +3153,17 @@ Scheme
 			}
 		}
 		
-		SourceCodeProSemiBold
+		SourceCodeProBold12
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold13
 		{
 			"1"
 			{
@@ -3173,6 +3183,88 @@ Scheme
 			}
 		}
 		
+		SourceCodeProSemiBold16
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold24
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold32
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SourceCodeProSemiBold34
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SourceCodeProSemiBold36
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold42
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProSemiBold46
+		{
+			"1"
+			{
+				"name"		"Source Code Pro SemiBold"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold12
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
 		SourceCodeProBold13
 		{
 			"1"
@@ -3183,12 +3275,84 @@ Scheme
 			}
 		}
 		
-				SourceCodeProBold14
+		SourceCodeProBold14
 		{
 			"1"
 			{
 				"name"		"Source Code Pro Bold"
 				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold16
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold24
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold32
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SourceCodeProBold34
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SourceCodeProBold36
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold42
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SourceCodeProBold46
+		{
+			"1"
+			{
+				"name"		"Source Code Pro Bold"
+				"tall"		"46"
 				"antialias" "1"
 			}
 		}
