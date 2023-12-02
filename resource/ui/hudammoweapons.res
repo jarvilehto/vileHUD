@@ -58,7 +58,7 @@
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"south-east"	
-		"labelText"		"%Ammo%"
+		"labelText"		"%Ammo%"	
 		
 	}		
 	"AmmoInClipShadow"
