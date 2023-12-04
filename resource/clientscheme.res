@@ -3358,6 +3358,824 @@ Scheme
 		}
 		
 		
+		KrubReg12
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg13
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg14
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg16
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg24
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg32
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubReg34
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubReg36
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg42
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		KrubReg46
+		{
+			"1"
+			{
+				"name"		"Krub Regular"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold12
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold13
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold14
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold16
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold24
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold32
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubBold34
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubBold36
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold42
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		KrubBold46
+		{
+			"1"
+			{
+				"name"		"Krub Bold"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubSemiBold12
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold13
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold14
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold16
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold24
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold32
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubSemiBold34
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		KrubSemiBold36
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold42
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		KrubSemiBold46
+		{
+			"1"
+			{
+				"name"		"Krub SemiBold"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg12
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg13
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg14
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg16
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg24
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg32
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedReg34
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedReg36
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg42
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedReg46
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Regular"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedSemiBold12
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold13
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold14
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold16
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold24
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold32
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedSemiBold34
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedSemiBold36
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold42
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedSemiBold46
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed SemiBold"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold12
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold13
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold14
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold16
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold24
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold32
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedBold34
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedBold36
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold42
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedBold46
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Bold"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+				SofiaSansCondensedExtraBold12
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold13
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold14
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold16
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold24
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold32
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedExtraBold34
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SofiaSansCondensedExtraBold36
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold42
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SofiaSansCondensedExtraBold46
+		{
+			"1"
+			{
+				"name"		"Sofia Sans Condensed Extra Bold"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg12
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg13
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"13"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg14
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg16
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg24
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg32
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SrirachaReg34
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"34"
+				"antialias" "1"
+			}
+		}
+		
+		
+		SrirachaReg36
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg42
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		SrirachaReg46
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"46"
+				"antialias" "1"
+			}
+		}
+		
 	}
 	
 	//CUSTOM FONTS//
@@ -6172,6 +6990,8 @@ Scheme
 				"range" "0x0000 0x007E"
 			}
 		}
+
+		///// CUSTOM FONT ENTRIES /////
 		"8"
 		{
 			"font"	"resource/fonts/SourceCodePro.ttf"
@@ -6195,5 +7015,58 @@ Scheme
 			"font"	"resource/fonts/SourceCodePro-Bold.ttf"
 			"name" "Source Code Pro Bold"
 		}
+		
+		
+		"12"
+		{
+			"font"	"resource/fonts/Krub-Regular.ttf"
+			"name" "Krub Regular"
+		}
+		
+		"13"
+		{
+			"font"	"resource/fonts/Krub-Bold.ttf"
+			"name" "Krub Bold"
+		}
+		
+		"14"
+		{
+			"font"	"resource/fonts/Krub-SemiBold.ttf"
+			"name" "Krub SemiBold"
+		}
+		
+		"15"
+		{
+			"font"	"resource/fonts/SofiaSansCondensed-Regular.ttf"
+			"name" "Sofia Sans Condensed Regular"
+		}
+		
+		
+		
+		"16"
+		{
+			"font"	"resource/fonts/SofiaSansCondensed-SemiBold.ttf"
+			"name" "Sofia Sans Condensed SemiBold"
+		}
+		
+		"17"
+		{
+			"font"	"resource/fonts/SofiaSansCondensed-Bold.ttf"
+			"name" "Sofia Sans Condensed Bold"
+		}
+		
+		"18"
+		{
+			"font"	"resource/fonts/SofiaSansCondensed-ExtraBold.ttf"
+			"name" "Sofia Sans Condensed ExtraBold"
+		}
+		
+		"19"
+		{
+			"font"	"resource/fonts/Sriracha-Regular.ttf"
+			"name" "Sriracha"
+		}
+		
+		
 	}
 }

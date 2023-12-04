@@ -40,10 +40,10 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamIndicator"		
-		"xpos"	"88"
-		"ypos"	"73"
+		"xpos"	"98"
+		"ypos"	"77"
 		"zpos"	"2"
-		"wide"	"77"
+		"wide"	"55"
 		"tall"	"3"
 		"autoResize" "0"
 		"pinCorner"	"0"
@@ -60,6 +60,9 @@
 		"draw_corner_width"		"0"
 		"draw_corner_height"	"0"
 	}
+	
+
+
 
 	
 	"PlayerStatusHealthImageBG"
@@ -113,7 +116,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SourceCodeProReg46"
+		"font"			"SofiaSansCondensedReg46"
 		"fgcolor"		"White"
 	}
 	
@@ -121,7 +124,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"1"
+		"xpos"			"2"
 		"xpos_minmode"	"61"
 		"ypos"			"1"	[$WIN32]
 		"zpos"			"5"
@@ -131,7 +134,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SourceCodeProReg46"
+		"font"			"SofiaSansCondensedReg46"
 		"fgcolor"		"0 0 0 255"
 	}
 	

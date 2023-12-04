@@ -44,7 +44,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"SourceCodeProReg46"
+		"font"			"SofiaSansCondensedReg46"
 		"fgcolor"		"white"
 		"xpos"			"-30"
 		"xpos_minmode"	"8"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"SourceCodeProReg46"
+		"font"			"SofiaSansCondensedReg46"
 		"fgcolor"		"white"
 		"xpos"			"-29"
 		"xpos_minmode"	"9"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"SourceCodeProReg24"
+		"font"			"SofiaSansCondensedReg24"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"white"
@@ -110,7 +110,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"SourceCodeProReg24"
+		"font"			"SofiaSansCondensedReg24"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
 		"fgcolor"		"TransparentBlack"
@@ -131,9 +131,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"SourceCodeProReg46"
+		"font"			"SofiaSansCondensedReg46"
 		"fgcolor"		"white"
-		"xpos"			"-23"
+		"xpos"			"-22"
 		"ypos"			"2"
 		"zpos"			"5"
 		"wide"			"84"
@@ -151,9 +151,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"SourceCodeProReg46"
+		"font"			"SofiaSansCondensedReg46"
 		"fgcolor"		"Black"
-		"xpos"			"-22"
+		"xpos"			"-20"
 		"xpos_hidef"	"2"
 		"xpos_lodef"	"2"
 		"ypos"			"3"
