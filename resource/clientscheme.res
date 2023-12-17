@@ -4176,6 +4176,16 @@ Scheme
 			}
 		}
 		
+		SrirachaReg64
+		{
+			"1"
+			{
+				"name"		"Sriracha"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
 	}
 	
 	//CUSTOM FONTS//
