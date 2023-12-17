@@ -1,56 +1,29 @@
-"Resource/UI/HudItemEffectMeter_Demoman.res"
+"Resource/UI/HudItemEffectMeter_PowerupBottles.res"
 {
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r790"	[$WIN32]
-		"ypos"			"r47"	[$WIN32]
-		"xpos_minmode"	"68"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"xpos"			"r86"	[$WIN32]
+		"ypos"			"r102"	[$WIN32]
+		"xpos_minmode"	"r70"	[$WIN32]
+		"ypos_minmode"	"r130"	[$WIN32]
 		"wide"			"100"
-		"tall"			"50"
+		"tall"			"60"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
-	
-	"TeamIndicator"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"TeamIndicator"		
-		"xpos"	"20"
-		"ypos"	"7"
-		"zpos"	"0"
-		"wide"	"50"
-		"tall"	"40"
-		"autoResize" "0"
-		"pinCorner"	"0"
-		"visible" "1"
-		"enabled" "1"
-		"image"		"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-
-		"src_corner_height"		"40"
-		"src_corner_width"		"40"
-		"draw_corner_width"		"0"
-		"draw_corner_height"	"0"
-	}
-	
-	
 	
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"999999"
+		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"0"
-		"wide"			"76"
-		"tall"			"44"
+		"wide"			"90"
+		"tall"			"56"
 		"visible"		"1"
 		"visible_minmode"	"0"
 		"enabled"		"1"
@@ -62,25 +35,45 @@
 		"teambg_3_lodef"	"../hud/misc_ammo_area_blue_lodef"				
 	}
 	
+	"ItemEffectIcon"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"ItemEffectIcon"
+		"xpos"			"12"
+		"xpos_minmode"	"36"
+		"ypos"			"7"
+		"ypos_minmode"	"14"
+		"zpos"			"1"
+		"wide"			"27"
+		"wide_minmode"	"20"
+		"tall"			"27"
+		"tall_minmode"	"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/ico_powerup_critboost_red"
+		"scaleImage"	"1"
+	}
+	
 	"ItemEffectMeterLabel"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"25"
-		"ypos"					"27"
+		"xpos"					"12"
+		"ypos"					"32"
 		"zpos"					"2"
-		"wide"					"41"
-		"tall"					"15"
+		"wide"					"56"
+		"tall"					"25"
 		"autoResize"			"1"
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
-		"labelText"				"#TF_KillStreak"
-		"textAlignment"			"center"
+		"labelText"				"#TF_Ball"
+		"textAlignment"			"north"
+		"centerwrap"			"1"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"SrirachaReg16"
+		"font"					"TFFontSmall"
 	}
 
 	"ItemEffectMeter"
@@ -90,11 +83,8 @@
 		"font"					"Default"
 		"xpos"					"25"
 		"ypos"					"23"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
 		"zpos"					"2"
 		"wide"					"40"
-		"wide_minmode"			"50"
 		"tall"					"6"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -109,9 +99,10 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"25"
+		"xpos"					"24"
+		"xpos_minmode"			"40"
+		"ypos"					"11"
 		"ypos_minmode"			"18"
-		"ypos"					"10"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -123,8 +114,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"fgcolor"				"255 255 255 255"
-		"font"					"SrirachaReg24"
-		"font_minmode"			"HudFontSmall"
+		"font"					"HudFontMedium"
+		"font_minmode"			"HudFontMediumSmall"
 	}
 }

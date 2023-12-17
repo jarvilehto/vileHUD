@@ -34,6 +34,8 @@
 		"image"			"../hud/class_scoutred"
 		"scaleImage"	"1"	
 	}
+
+	
 	"PlayerStatusSpyImage"
 	{
 		"ControlName"	"CTFImagePanel"
@@ -127,9 +129,9 @@
 		"ControlName"	"CTFPlayerModelPanel"
 		"fieldName"		"classmodelpanel"
 		
-		"xpos"			"150"	[$WIN32]
+		"xpos"			"0"	[$WIN32]
 		"xpos_minmode"	"0"	[$WIN32]
-		"ypos"			"r214"	[$WIN32]
+		"ypos"			"r200"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"zpos"			"2"		
 		"wide"			"100"
@@ -144,6 +146,8 @@
 		"render_texture"	"0"
 		"fov"			"12"
 		"allow_rot"		"1"
+		
+
 
 		"disable_speak_event"	"1"
 				
@@ -187,7 +191,7 @@
 				"fov"			"25"
 				"angles_x"		"-9"
 				"angles_x_minmode"	"0"
-				"angles_y"		"-190"
+				"angles_y"		"200"
 				"angles_z"		"0"
 				"origin_x"		"130"
 				"origin_y"		"-3"
