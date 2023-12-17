@@ -87,13 +87,13 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"			"SrirachaReg46"
-		"fgcolor"		"White"
+		"fgcolor"		"255 255 255 255"
 	}
 	
 		"PlayerStatusHealthValueBG"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"PlayerStatusHealthValueBg"
 		"xpos"			"-2"
 		"xpos_minmode"	"61"
 		"ypos"			"0"	[$WIN32]
