@@ -15,33 +15,6 @@
 		"MeterBG"		"Gray"
 	}
 	
-	"TeamIndicator"
-	{
-		"ControlName"	"CTFImagePanel"
-		"fieldName"		"TeamIndicator"		
-		"xpos"	"20"
-		"ypos"	"7"
-		"zpos"	"0"
-		"wide"	"50"
-		"tall"	"40"
-		"autoResize" "0"
-		"pinCorner"	"0"
-		"visible" "1"
-		"enabled" "1"
-		"image"		"../hud/color_panel_brown"
-		"scaleImage"		"1"
-		"teambg_1"		"../hud/color_panel_brown"
-		"teambg_2"		"../hud/color_panel_red"
-		"teambg_3"		"../hud/color_panel_blu"
-
-		"src_corner_height"		"40"
-		"src_corner_width"		"40"
-		"draw_corner_width"		"0"
-		"draw_corner_height"	"0"
-	}
-	
-	
-	
 	"ItemEffectMeterBG"
 	{
 		"ControlName"	"CTFImagePanel"

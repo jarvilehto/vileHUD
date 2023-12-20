@@ -5,13 +5,13 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r174"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
+		"xpos"			"r366"	[$WIN32]
+		"ypos"			"r173"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r54"	[$WIN32]
+		"ypos_minmode"	"r68"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r124"	[$X360]
-		"wide"			"100"
+		"wide"			"300"
 		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -26,7 +26,7 @@
 		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_horiz1_blue"
@@ -48,7 +48,7 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
+		"visible"				"0"
 		"visible_minmode"		"1"
 		"ypos_minmode"			"1"
 		"xpos_minmode"			"0"
@@ -72,8 +72,8 @@
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"30"
-		"wide_minmode"			"50"
+		"wide"					"55"
+		"wide_minmode"			"56"
 		"tall"					"5"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -82,5 +82,21 @@
 		"textAlignment"			"Left"
 		"dulltext"				"0"
 		"brighttext"			"0"
-	}					
+	}
+	
+"Box"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"Box"
+		"xpos"					"47"
+		"ypos"					"23"
+		"zpos"			"0"
+		"wide"			"56"
+		"tall"			"6"
+		"fillcolor"		"32 32 32 240"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+	}
 }

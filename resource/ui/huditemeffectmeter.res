@@ -41,8 +41,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"42"
-		"ypos"					"30"
+		"xpos"					"122"
+		"ypos"					"25"
 		"zpos"					"2"
 		"wide"					"41"
 		"tall"					"15"
@@ -60,8 +60,8 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"SrirachaReg12"
-		"fgcolor"				"255 0 0 255"
 	}
+	
 
 	"ItemEffectMeter"
 	{	
@@ -80,8 +80,9 @@
 		"pinCorner"				"0"
 		"visible"				"1"
 		"enabled"				"1"
-		"textAlignment"			"Left"
+		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
+		"fgcolor_override" "150 150 150 255"
 	}					
 }
