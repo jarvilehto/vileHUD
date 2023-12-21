@@ -5,9 +5,9 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-200"		[$WIN32]
+		"xpos"			"c-250"		[$WIN32]
 		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"c20"	[$WIN32]
+		"ypos"			"c70"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SrirachaReg46"
+		"font"			"SrirachaReg64"
 		"fgcolor"		"255 255 255 255"
 	}
 	
@@ -104,7 +104,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"SrirachaReg46"
+		"font"			"SrirachaReg64"
 		"fgcolor"		"0 0 0 255"
 	}
 	
