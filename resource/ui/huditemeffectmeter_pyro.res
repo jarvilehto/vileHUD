@@ -5,7 +5,8 @@
 	HudItemEffectMeter
 	{
 		"fieldName"		"HudItemEffectMeter"
-		"xpos"			"r214"
+		"xpos"			"r427"
+		"ypos"			"r160"
 		"ypos_minmode"	"r70"
 	}
 }

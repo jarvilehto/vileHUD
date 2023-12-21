@@ -68,7 +68,7 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"50"
+		"xpos"					"49"
 		"ypos"					"54"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
