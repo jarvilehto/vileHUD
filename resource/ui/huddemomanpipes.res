@@ -100,7 +100,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
-			"xpos"			"50"
+			"xpos"			"34"
 			"xpos_minmode"	"42"
 			"ypos"			"18"
 			"ypos_minmode"	"12"
@@ -117,7 +117,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"SrirachaReg24"
+			"font"			"SrirachaReg32"
 			"font_minmode"	"HudFontSmall"
 			"font_lodef"	"HudFontMediumBig"
 			"fgcolor"		"White"
