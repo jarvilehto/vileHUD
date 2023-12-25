@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"Arrow"
-		"xpos"			"57"
+		"xpos"			"58"
 		"ypos"			"50"
 		"zpos"			"1"
 		"wide"			"45"
@@ -39,7 +39,7 @@
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"StatusIcon"
-		"xpos"			"65"
+		"xpos"			"66"
 		"ypos"			"58"
 		"zpos"			"3"
 		"wide"			"30"
